@@ -1,4 +1,7 @@
-## Hi there 👋
+## hello!
+
+currently working on:
+- iridium, a lower level programming language
 
 <!--
 **olkku45/olkku45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
