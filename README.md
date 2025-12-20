@@ -3,6 +3,7 @@
 currently working on:
 - iridium, a lower level programming language
 - peanut, a simple shell
+- a secret game
 
 <!--
 **olkku45/olkku45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
