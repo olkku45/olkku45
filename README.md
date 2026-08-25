@@ -1,7 +1,7 @@
 ## hello!
 
 currently working on:
-- a kernel project
+- a lexer and parser generator library for zig
 
 <!--
 **olkku45/olkku45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
